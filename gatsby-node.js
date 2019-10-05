@@ -5,7 +5,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators
 
   const soloSessionTemplate = path.resolve('src/templates/solo-session.js')
-  const soloCampaignsTemplate = path.resolve('src/templates/solo-campaigns.js')
+  const soloCampaignsTemplate = path.resolve('src/templates/solo-campaign.js')
 
   return graphql(`{
     soloSessions: allMarkdownRemark {

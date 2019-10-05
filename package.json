@@ -25,6 +25,9 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
+  "standard": {
+    "parser": "babel-eslint"
+  },
   "keywords": [
     "gatsby"
   ],
