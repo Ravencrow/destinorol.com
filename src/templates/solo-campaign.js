@@ -18,7 +18,6 @@ const SoloCampaigns = ({ pageContext, data }) => {
       to: `/solo-campaigns/${kebabCase(serie.fieldValue)}/`,
       label: serie
     }
-
   ]
 
   return (

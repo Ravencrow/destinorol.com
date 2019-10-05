@@ -1,15 +1,33 @@
-import React from "react"
-import { graphql } from "gatsby"
+import React from 'react'
+import { graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
+import BreadCrums from '../components/breadcrumbs'
+const kebabCase = require('lodash').kebabCase
 
-export default function Template({ data }) {
+export default function Template ({ data }) {
   const soloSession = data.markdownRemark
+  const { serie, title, path } = data.markdownRemark.frontmatter
+  const links = [
+    {
+      to: '/',
+      label: 'Inicio'
+    },
+    {
+      to: `/solo-campaigns/${kebabCase(serie)}/`,
+      label: serie
+    },
+    {
+      to: path,
+      label: title
+    }
+  ]
 
   return (
     <Layout>
       <SEO title='Juegos de rol en solitario' />
+      <BreadCrums links={links} />
       <div>
         <h1>{soloSession.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: soloSession.html }} />
@@ -25,6 +43,7 @@ export const soloSessionQuery = graphql`
       html
       frontmatter {
         path
+        serie
         title
       }
     }
