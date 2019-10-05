@@ -1,11 +1,11 @@
 ---
-title: "Star Wars - El viejo alumno"
+title: "Star Wars - El viejo alumno 1"
 date: "2017-08-10"
 game: "Fate RPG"
 serie: "El viejo alumno"
 category: "solo-rpg"
 tags: ["rol en solitario", "star wars", "fate"]
-path: "/star-wars-el-viejo-alumno"
+path: "/star-wars-el-viejo-alumno-1"
 ---
 
 Pandas are really sweet.

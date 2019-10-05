@@ -1,11 +1,11 @@
 ---
-title: "Star Wars - El viejo alumno"
+title: "No hay tiempo para morir 1"
 date: "2017-08-10"
 game: "Fate RPG"
 serie: "No hay tiempo para morir"
 category: "solo-rpg"
 tags: ["rol en solitario", "star wars", "fate"]
-path: "/star-wars-el-viejo-alumno"
+path: "/no-hay-tiempo-para-morir-1"
 ---
 
 Pandas are really sweet.

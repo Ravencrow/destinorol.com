@@ -1,35 +1,33 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from 'react'
+import { Link } from 'gatsby'
 
-import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
-import { graphql } from "gatsby"
-import { serialize } from "uri-js"
+import Layout from '../components/layout'
+import SEO from '../components/seo'
+import { graphql } from 'gatsby'
+
+const kebabCase = require('lodash').kebabCase
 
 const IndexPage = ({ data }) => {
   return (
     <Layout>
-      <SEO title="Juegos de rol en solitario" />
+      <SEO title='Juegos de rol en solitario' />
       <h2>Juegos de rol en solitario</h2>
       <p>
-        Estas son las partidas de rol en solitario que he documentado hasta la
-        fecha en{" "}
-        <a
-          target="_blank"
-          href="https://www.youtube.com/user/destinorol/videos"
-        >
-          Destino ROL
-        </a>
+        Estas son las partidas de rol en solitario que he documentado hasta la fecha en
+        {" "}
+        <a rel='noopener noreferrer' target='_blank' href='https://www.youtube.com/user/destinorol/videos'>Destino ROL</a>
       </p>
       <ul>
         {data.allMarkdownRemark.group.map(serie => (
-          <li>
-            <Link to="/solo-serie/">{serie.fieldValue}</Link>
-          </li>
-        ))}
+           <li key={serie.fieldValue}>
+             <Link to={`/solo-campaigns/${kebabCase(serie.fieldValue)}/`}>
+             {serie.fieldValue}
+             </Link>
+           </li>
+         ))}
       </ul>
-      <Link to="/partida-solo/">Go to page 2</Link>
+      <Link to='/partida-solo/'> Go to page 2
+      </Link>
     </Layout>
   )
 }
