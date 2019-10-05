@@ -8,9 +8,9 @@ const BreadCrumbs = ({ links }) => {
         const isFinal = index === links.length - 1
         let result
         if (!isFinal) {
-          result = <span><Link to={link.to}>{link.label}</Link>{' / '}</span>
+          result = <span key={link.label}><Link to={link.to}>{link.label}</Link>{' / '}</span>
         } else {
-          result = <span>{link.label}</span>
+          result = <span key={link.label}>{link.label}</span>
         }
         return result
       })}
