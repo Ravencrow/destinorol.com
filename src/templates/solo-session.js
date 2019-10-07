@@ -29,7 +29,6 @@ export default function Template ({ data }) {
       <SEO title='Juegos de rol en solitario' />
       <BreadCrums links={links} />
       <div>
-        <h1>{soloSession.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: soloSession.html }} />
       </div>
     </Layout>
