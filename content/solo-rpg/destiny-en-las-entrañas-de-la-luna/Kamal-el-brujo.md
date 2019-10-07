@@ -12,7 +12,7 @@ order: 2
 # Kamal, el brujo
 ---
 
-**Puntos de destino:** 0
+**Puntos de destino:** 3
 
 **Refresco:** 3
 
@@ -39,13 +39,13 @@ order: 2
 - Golpe telekinético: una vez por escena puedes empujar a un objetivo que esté en tu escena a una escena adyacente.
 
 ## Estrés
-Físico: 1x 2x 3x
+Físico: 1_ 2_ 3_
 
 Mental: 1_ 2_ 3_ 4_
 
 ## Consecuencias
-2- Arañaos superficiales
+2- 
 
-4- Cortes profundos
+4- 
 
-6- Quemadura de rayo necrótico grave en el brazo
+6- 
