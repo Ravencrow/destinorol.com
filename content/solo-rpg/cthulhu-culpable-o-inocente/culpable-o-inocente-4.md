@@ -99,116 +99,80 @@ Tirada de tiempo
 1d100 -> 84
 ```
 
+```
 En la siguiente escena elijo descansar.
-
 ```
 
 ```
-
 ¿Me perturban el descanso?
 1d100 -> 75 = 75 + 24 = 99 -> definitivamente, si
-
 ```
 
 ```
-
 Evento aleatorio
 1d100 -> 12 = 12 -> oyes algo
-
 ```
 
 ```
-
 Tabla de sonidos
 1d100 -> 66 = 66
-
 ```
 
 ```
-
 Localización del ruido
 1d100 -> 67 = 67
-
 ```
-
 
 _16.34_
 
-
 Había estado corriendo más de una hora. No podía dar un paso más. Estaba dispuesto a dormir ahí mismo. Pero conseguí arrastrarme hasta la puerta, y usar el pomo para asirme y levantarme. Las piernas me temblaban y no sabía si era por miedo o por la extenuación. Seguramente por ambos motivos.
-
 
 Abrí la puerta. Todo estaba vacío, pero la luz que entraba a estas horas por las vidrieras hacían un trabajo estupendo para dotar la inmensa sala de un aire tenebroso. De hecho... Casi no se podía ver en la parte del altar.
 
-
 Había alguien ahí. Escuché sus pasos. Eran pasos sobre suelo... ¿mojado? Grité preguntando quién había ahí.
 
-
 ```
-
 ¿Responden?
 1d100 -> 93 = 93
-
 ```
 
 ```
-
 ¿Responden en mi idioma?
 1d100 -> 49 = 49
-
 ```
 
 ```
-
 ¿Es una voz humana?
 1d100 -> 64 = 64
-
 ```
 
 ```
-
 Descripción de lo que dice
 4d500 -> 368 + 319 + 428 + 24 = 1139
 Surgir, risa, polución, vender
-
 ```
-
 
 La respuesta me heló la sangre. La voz era... No podría describirla bien. No sabría decir si era de hombre o de mujer. Joder, no sabría decir si era siquiera humana. Había algo en esa voz que apelaba a algún instinto atávico de supervivencia en lo más profundo de mí jodida alma. Era una voz corrupta, contaminada por algo que la hacía sonar desprovista de vida. Y hablaba del resurgir... El resurgir de alguien, o de algo. Y que yo le ayudaría. Y la risa... Esa risa con la que acabó de hablar. No... No puedo recordarla... ¡No quiero recordarla!
 
-
 Y entonces... Es como si algo de esa negrura de la zona del altar se desvaneciera y dejase que la luz mortecina que entraba por las cristaleras ocupara su lugar.
 
-
 ```
-
 ¿Lo que moja el suelo es la sangre del cura? (probable)
 1d100 -> 45 = 45 -> puede
-
 ```
 
 ```
-
 ¿Está el cura en la iglesia?
 1d100 -> 8 = 8 -> no
-
 ```
-
 
 No sé de donde saqué la voluntad para acercarme al altar de la iglesia. Quizá sea la locura que empezaba a hacer mella en mi cerebro. Ahí no había nadie. Pero la pila de bautismo estaba tirada por el suelo, con el agua bendita tirada, goteando sobre los pocos peldaños que separaban el altar del resto de la iglesia. No era creyente, pero juro que no pude evitar agacharme, mojarme los dedos con esa agua y hacerme la señal de la cruz en la frente. Que Dios, si es que existe, me asista.
 
-
 ```
-
 Evento que asusta. +2 a Mythos (van 16)
-
 ```
 
 ```
-
 Tirada de cordura
 1d100 -> 18 = 18 -> superada. Pierdo 2 puntos de cordura.
-
-```
-
 ```
