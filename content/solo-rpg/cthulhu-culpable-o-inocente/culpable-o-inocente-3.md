@@ -1,6 +1,6 @@
 ---
 title: "¿Culpable o inocente? - 3"
-date: "15-12-2019"
+date: "10-15-2019"
 game: "La Llamada de Cthulhu"
 serie: "¿Culpable o inocente?"
 category: "solo-rpg"
