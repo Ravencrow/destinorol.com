@@ -98,6 +98,9 @@ samp {
   font-family: monospace, monospace;
   font-size: 1em;
 }
+code {
+  white-space : pre-wrap !important;
+}
 figure {
   margin: 1em 40px;
 }
