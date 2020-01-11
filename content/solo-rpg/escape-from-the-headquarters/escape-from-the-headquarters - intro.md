@@ -39,11 +39,11 @@ Apart from the tables offered in the pdf of the initiative, I'll use this one fo
 ```
 | 1d6 | Type of scene         |
 |  1  | Resting               |
-|  2  | Witness injustice     |  
-|  3  | Overhear conversation |  
+|  2  | Witness injustice     |
+|  3  | Overhear conversation |
 |  4  | Security measure      |
 |  5  | Normal combat         |
-|  6  | Difficult combat       |  
+|  6  | Difficult combat       |
 ```
 
 There is one additional rule for that table: when one of the options is taken, it gains a token. If the option taken has a token, instead of using that option, remove the token and throw the dice again. This way we make easier for other kind of scenes to appear as a result of the d6.

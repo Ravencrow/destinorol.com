@@ -19,7 +19,7 @@ Keisuke, the Techno-monk
 
 - Genius hacker
 - Bare fists, pure iron
-- 
+-
 
 **Skills**
 
@@ -32,17 +32,15 @@ Keisuke, the Techno-monk
 
 - Mind and body: you have an extra physical stress box and mental stress box.
 - Your body is a tool: you have implants that helps you surpass closed things. You get +2 when you try to open a file, or a door, or a locker... whatever thing is electronic and is considered "closed".
-- 
+- Electromagnetic pulse: once per scene you can create an advantage with machines at +2 against machines of any kind.
 
 **Stress**
 
-- Physical 1_ 2_ 3_ 4_
-- Mental 1_ 2_ 3_ 4_
+- Physical 1* 2* 3* 4*
+- Mental 1* 2* 3* 4*
 
 **Consequences**
 
 - 2
 - 4
 - 6
-
-

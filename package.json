@@ -23,9 +23,6 @@
     "react-helmet": "^5.2.1",
     "standard": "^14.3.1"
   },
-  "devDependencies": {
-    "prettier": "^1.18.2"
-  },
   "standard": {
     "parser": "babel-eslint"
   },
