@@ -6,7 +6,7 @@ serie: "Escape from the Headquarters (english)"
 category: "solo-rpg"
 tags: ["rol en solitario", "cyberpunk", "fate"]
 path: "/escape-from-the-headquarters-1"
-order: 2
+order: 3
 ---
 
 # Escape from the Headquarters - 1
