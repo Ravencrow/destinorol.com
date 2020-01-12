@@ -11,6 +11,8 @@ order: 2
 
 Keisuke, the Techno-monk
 
+**Fate points** 2
+
 **Concept** Techno-monk that fights the corporations
 
 **Problem** Cannot stand injustice
