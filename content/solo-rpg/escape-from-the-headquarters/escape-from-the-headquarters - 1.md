@@ -20,7 +20,7 @@ Ok, I have the info. I have deactivated the wifi firewalls, but I have only unti
 
 I'm crawling for the air conditioning ducts. The cameras can't see my inside the walls, so this seems like the best way to go down until I'm at the street level. It's safe, but slow.
 
-Suddenly I hear something. A group of techno-ninjas are using the force to ask some of the company workers about... me? They don't know me, not even that I'm in the building, and still those stupid mecha-ninjas are hitting them to make them talk.
+Suddenly I hear something. A group of techno-ninjas are using the force to ask any of the company workers about... me? They don't know me, not even that I'm in the building, and still those stupid mecha-ninjas are hitting them to make them talk.
 
 ```
 My problem is to not stand injustice, so I'll need to pay a Fate point if I don't want to interfere. But... I'll get one if I do, and Keisuke can't stand injustice.
@@ -34,7 +34,7 @@ Enemy forces
 ```
 
 ```
-Ok... a difficult one. Their combat power is the same as mine, so a group of techno-ninjas with 3 attack power, the main aspect "cutting-edge techno-ninja", 3 stress boxes and a 3 consecuence box.
+Ok... a difficult one. Their combat power is the same as mine, so a group of techno-ninjas with 3 attack power, the main aspect "cutting-edge techno-ninja", 3 stress boxes and a 3 consequence box.
 ```
 
 I can see from my hiding place 6 of them. This will be tough. But must be done.
@@ -63,7 +63,7 @@ Do they use a fate point?
 Yes
 ```
 
-The robots are well connected by wifi. They took advantage of all the different points of view they saw me comming and barely dodged my kick.
+The robots are well connected by wifi. They took advantage of all the different points of view they saw me coming and barely dodged my kick.
 
 ```
 Robot attack
@@ -90,7 +90,7 @@ Aspect: half-fried techno-ninjas (2 uses)
 ```
 
 ```
-Ninja atack
+Ninja attack
 + + - ͸  + 3 = 4
 ```
 
@@ -155,7 +155,7 @@ my defense
 Yes
 ```
 
-Another shuriken? This guys don't have a very good neural network for sure. They should have learned that won't work agains my reflexes.
+Another shuriken? This guys don't have a very good neural network for sure. They should have learned that won't work against my reflexes.
 
 ```
 The way of the electrified electronic hand!!!
@@ -169,6 +169,6 @@ robot defense
 Yes
 ```
 
-It's my opportunity. They are almost totally paralized. I run though them releasing a terrible wave of punches after terrible way of punches. When I stop, they are static behind me. I smile and then all of them explode... I'm pretty sure that fire would make the dragon tatoo in my bald look amazing.
+It's my opportunity. They are almost totally paralyzed. I run though them releasing a terrible wave of punches after terrible way of punches. When I stop, they are static behind me. I smile and then all of them explode... I'm pretty sure that fire would make the dragon tattoo in my bald look amazing.
 
 Ok, to the next floor.
