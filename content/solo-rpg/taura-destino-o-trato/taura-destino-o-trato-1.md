@@ -17,13 +17,13 @@ Me siento débil. No he comido nada desde entonces, por la preocupación y la fa
 
 Entonces la veo. Una cabaña. Puede que esté habitada. No me importa. Necesito dormir.
 
-'''
+```
 Notas:
 
 - Lovanov puede haber sobrevivido, era el mejor guerrero... después de mí.
 - Lorna, una buena amiga, quizá algo más, murió de forma totalmente injusta en esa locura colectiva.
 - Estoy dispuesto a entrar en esa cabaña, esté habitada o no.
-  '''
+```
 
 ## Escena 2 - La Cabaña
 
@@ -35,12 +35,12 @@ Les hago preguntas: ¿Quienes son? ¿Qué hacen solas en mitad de la nada? ¿Có
 
 Paso todo un día con ellas, incluida la noche. Las bestias, perdiciones y corrupciones se escuchan muy cerca del claro donde se encuentra la cabaña, pero por alguna razón no se acercan a ella. Estamos seguros aquí pero... ¿porqué? Estaba dispuesto a defenderlas de las criaturas que se acercasen pero... en realidad tengo la sensación de ser yo el que está protegido.
 
-'''
+```
 Respuestas (basadas en un generador de verbos online):
 
 - ¿Quienes sois? No queremos imponerte nuestro reconocimiento, pero deja que te persuadamos con el beso del impulso. (No entiendo nada)
 - ¿Qué hacéis aquí en mitad de la nada? No cazamos, no atacamos, porque el que sugiere y nos convoca nos estima menos que nosotros a él (Sigo sin entender nada)
 - ¿Cómo seguís vivas? Esta vestimenta que no necesita sustento no se atribuye ningún compromiso propio, pero si el vuestro (Nada, es como preguntarle a un roble en mitad de este maldito bosque)
-  '''
+```
 
 Una cosa tengo clara: estoy vivo por ellas. Así que lo único que podía hacer cuando me pidieron ese favor, terminando una las frases de la otra, era aceptarlo sin reservas: hay un poblado cerca de la cabaña que está intentando asentarse, y me han pedido que vaya ahí y les ayude. Como muestra que voy de parte de ellas, me ofrecen un extraño instrumento cóncavo que deberé ofrecer cuando llegue..
