@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `John Fight Gaming`,
     description: `Where all the fun is reunited`,
-    author: `John Fight`
+    author: `John Fight`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -10,16 +10,16 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`
-      }
+        path: `${__dirname}/src/images`,
+      },
     },
     `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `content`,
-        path: `${__dirname}/content`
-      }
+        path: `${__dirname}/content`,
+      },
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -33,7 +33,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/logo-halloween.png`, // This path is relative to the root of the site.
-      }
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -41,16 +41,22 @@ module.exports = {
         trackingId: "UA-722632-23",
       },
     },
-  // {
-  //   resolve: `gatsby-source-youtube-v2`,
-  //   options: {
-  //     channelId: ["UCgUU8B2HOGBmSDnnEWh4n-w"],
-  //     apiKey: process.env.YOUTUBEKEY,
-  //     maxVideos: 50, // Defaults to 50
-  //   },
-  // },
-  // this (optional) plugin enables Progressive Web App + Offline functionality
-  // To learn more, visit: https://gatsby.dev/offline
-  // `gatsby-plugin-offline`,
-  ]
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-copy-linked-files`],
+      },
+    },
+    // {
+    //   resolve: `gatsby-source-youtube-v2`,
+    //   options: {
+    //     channelId: ["UCgUU8B2HOGBmSDnnEWh4n-w"],
+    //     apiKey: process.env.YOUTUBEKEY,
+    //     maxVideos: 50, // Defaults to 50
+    //   },
+    // },
+    // this (optional) plugin enables Progressive Web App + Offline functionality
+    // To learn more, visit: https://gatsby.dev/offline
+    // `gatsby-plugin-offline`,
+  ],
 }
