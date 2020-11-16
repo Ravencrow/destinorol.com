@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `John Fight Gaming`,
-    description: `Where all the fun is reunited`,
+    title: `Destino Rol`,
+    description: `El canal de youtube sobre rol en general y Fate en particular`,
     author: `John Fight`,
   },
   plugins: [
